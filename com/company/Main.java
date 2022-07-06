@@ -12,6 +12,7 @@ public class Main {
         list.add(student);
         list.add(student2);
         System.out.println(list);
+        System.out.println("a;ufraub");
 
 
 
